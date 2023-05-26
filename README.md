@@ -1,0 +1,3 @@
+#  Global Supply Chain: Optimizing for Costs Under Known Constraints Using PuLP
+This notebook develops a linear programming (LP) algorithm that automates and streamlines decision-making for a supply chain system of a major retailer. I use PuLP, a linear programming modeler written in Python, to design an optimization algorithm. The retailer uses the services of five carriers. These carriers ship containers across 290 Asia-U.S. routes. The retailer would like to have software to determine which carrier should supply which route to minimize the whole operation costs while satisfying a set of constraints. 
+The model development process is described in the Jupyter Notebook `notebook.ipynb`.
